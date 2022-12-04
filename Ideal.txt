@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="es">
+    <head>
+    <meta charset="UTF-8"/>
+    <title>¿Qué es Python?  | Blog Becas Santander </title>
+    <meta name="keywords" content="Tecnología,Artículos,Santander Universidades"/>
+    <meta name="description" content="Descubre qué es Python, su origen y para qué se utiliza en el mundo tech. Conoce los campos en que se utiliza y cómo está influyendo en el mercado laboral."/>
+    <meta name="template" content="template-1-column"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    
+    
+
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/becasmicrosites/clientlibs/clientlib-base.min.css" type="text/css">
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/becasmicrosites/clientlibs/clientlib-dependencies.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/becasmicrosites/clientlibs/clientlib-core.min.css" type="text/css">
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/becasmicrosites/clientlibs/clientlib-becas.min.css" type="text/css">
+
+
+
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-NMHSPC8");
+</script>
+<!-- End Google Tag Manager -->
+
+
+  
+    
+    <link rel="canonical" href="https://www.becas-santander.com/es/blog/python-que-es.html"/>
+
+    
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "BlogPosting",
+"publisher": {
+"@type": "Organization",
+"name": "Santander Universidades",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.becas-santander.com/content/dam/becasmicrosites/santander_universidades_logo.jpg"
+    }
+    },
+    "author": {
+    "@type": "Organization",
+    "name": "Santander Universidades"
